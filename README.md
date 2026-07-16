@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bonjour, je suis Sifiyanou Tahirou
 
-<!--
-**Sifiyanou-tahirou/Sifiyanou-tahirou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingénieur cybersécurité, systèmes et réseaux
 
-Here are some ideas to get you started:
+Diplômé d’un Master en cybersécurité, systèmes et réseaux, je m’intéresse à la sécurité des systèmes d’information, à l’administration des infrastructures et à la protection des réseaux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Compétences
+
+* Cybersécurité et gestion des risques
+* Administration Linux et Windows
+* Réseaux, VLAN, VPN et pare-feu
+* Supervision et SIEM
+* Active Directory et Microsoft 365
+* GRC et conformité
+
+### Outils
+
+`Linux` `Windows` `Active Directory` `Microsoft Sentinel` `Splunk` `Wazuh` `Zabbix` `pfSense` `GNS3` `VMware`
+
+### Me contacter
+
+* [LinkedIn](https://www.linkedin.com/in/sifiyanou-tahirou-040221252)
+
