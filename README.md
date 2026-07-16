@@ -1,6 +1,6 @@
 # Bonjour, je suis Sifiyanou Tahirou
 
-## Ingénieur cybersécurité, systèmes et réseaux
+## Ingénieur cybersécurité, réseaux et systèmes 
 
 Diplômé d’un Master en cybersécurité, systèmes et réseaux, je m’intéresse à la sécurité des systèmes d’information, à l’administration des infrastructures et à la protection des réseaux.
 
